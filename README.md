@@ -1,19 +1,22 @@
 # 💫 Acerca de mi:
 🔭 Soy un desarrollador de software con experiencia en HTML, CSS, JS, React, Next.js, Redux, PHP, SQL, MySQL, PostgreSQL, MongoDB y TypeScript. Me gusta seguir aprendiendo y creciendo en mi carrera.<br>
+
 Proyectos personales:
 
 Creación de un sitio web de portafolio personal utilizando React y Next.js.
 Desarrollo de una aplicación de seguimiento de gastos utilizando HTML, CSS, JS y MongoDB.
 Creación de una extensión de navegador utilizando JavaScript y TypeScript.
+
 Habilidades transferibles:
 
 Gran capacidad para resolver problemas y tomar decisiones rápidas.
 Habilidad para trabajar en equipo y colaborar en proyectos en grupo.
 Excelente habilidad organizativa y de gestión del tiempo.
+
 Intereses y pasatiempos:
 
 Participación en comunidades de programación y tecnología.
-Desarrollo de habilidades en diseño gráfico y edición de video.
+Desarrollo de habilidades en diseño gráfico.
 Lectura de artículos y noticias sobre el desarrollo de software y la tecnología.
 
 
