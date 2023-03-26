@@ -1,5 +1,20 @@
 # 💫 Acerca de mi:
-🔭 actualmente estoy en el ultimo año de Tec. superior en Desarrollo Software<br><br><br>🌱 Las tecnologia que se y sigo en constate aprendizaje <br>son : <br>HTML - CSS - JS - REACT -Next.js - Redux - PHP - SQL - MYSQL -  PostgreSQL - MongoDB - TypeScript <br><br><br>💬 ¿ Preguntas Frecuentes ?<br><br>-¿ Por qué te gusta programar ?<br>--->Me brinda la posibilidad de crear tus propios proyectos, esa libertad de poder crear cosas nuevas, expandir todos tus horizontes y por sobre todo te ayuda a cambiar tu forma de pensar<br><br>-¿ Con cuál lenguaje te gusta programar más ?<br>--->Me gusta programar más con JavaScript y complementarlo con React<br><br>-¿Cuántos años tienes?<br>--->Tengo 21 años <br>
+🔭 Soy un desarrollador de software con experiencia en HTML, CSS, JS, React, Next.js, Redux, PHP, SQL, MySQL, PostgreSQL, MongoDB y TypeScript. Me gusta seguir aprendiendo y creciendo en mi carrera.<br>
+Proyectos personales:
+
+Creación de un sitio web de portafolio personal utilizando React y Next.js.
+Desarrollo de una aplicación de seguimiento de gastos utilizando HTML, CSS, JS y MongoDB.
+Creación de una extensión de navegador utilizando JavaScript y TypeScript.
+Habilidades transferibles:
+
+Gran capacidad para resolver problemas y tomar decisiones rápidas.
+Habilidad para trabajar en equipo y colaborar en proyectos en grupo.
+Excelente habilidad organizativa y de gestión del tiempo.
+Intereses y pasatiempos:
+
+Participación en comunidades de programación y tecnología.
+Desarrollo de habilidades en diseño gráfico y edición de video.
+Lectura de artículos y noticias sobre el desarrollo de software y la tecnología.
 
 
 ## 🌐 Socials:
