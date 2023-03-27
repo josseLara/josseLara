@@ -19,6 +19,8 @@ Participación en comunidades de programación y tecnología.
 Desarrollo de habilidades en diseño gráfico.
 Lectura de artículos y noticias sobre el desarrollo de software y la tecnología.
 
+# 💻 Portafolio: 
+https://portafolio-josselara.vercel.app
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-lara-311a77237/) 
