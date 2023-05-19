@@ -50,14 +50,16 @@
 [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/wervlad)
 [![VS Code](https://img.shields.io/badge/vscode-black?style=for-the-badge&logo=vscode)](https://github.com/wervlad)
 
+### Methodology
+[![Agile](https://img.shields.io/badge/agile-black?style=for-the-badge&logo=agile)](https://github.com/wervlad)
+[![Scrum](https://img.shields.io/badge/scrum-black?style=for-the-badge&logo=scrum)](https://github.com/wervlad)
+
 ### OS
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/wervlad)
 
 ### 📊 GitHub Stats:
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=josseLara&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=josseLara&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
+| ![](https://github-readme-streak-stats.herokuapp.com/?user=josseLara&theme=react&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=josseLara&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact) |
+| --- | --- |
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
