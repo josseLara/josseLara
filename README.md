@@ -23,11 +23,9 @@
 ### Languages
 
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/wervlad)
+[![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/wervlad)
+[![Typescript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/wervlad)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/wervlad)
-
-### ML/DL
-[![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/wervlad)
-[![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/wervlad)
 
 ### Technologies & Frameworks
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/wervlad)
@@ -38,6 +36,12 @@
 [![JQUERY](https://img.shields.io/badge/jquery-black?style=for-the-badge&logo=jquery)](https://github.com/wervlad)
 [![NEXT.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js)](https://hub.docker.com/u/wervlad)
 [![SASS](https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass)](https://github.com/wervlad)
+[![Redux](https://img.shields.io/badge/redux.js-black?style=for-the-badge&logo=redux.js)](https://github.com/wervlad)
+
+### Tools
+[![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/wervlad)
+[![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/wervlad)
+[![VS Code](https://img.shields.io/badge/vscode-black?style=for-the-badge&logo=vscode)](https://github.com/wervlad)
 
 ### OS
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/wervlad)
