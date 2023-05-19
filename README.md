@@ -33,7 +33,7 @@
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/wervlad)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/wervlad)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/wervlad)
-[![NODE](https://img.shields.io/badge/node-black?style=for-the-badge&logo=node)](https://github.com/wervlad)
+[![NODE.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)](https://github.com/wervlad)
 [![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)](https://github.com/wervlad)
 [![JQUERY](https://img.shields.io/badge/jquery-black?style=for-the-badge&logo=jquery)](https://github.com/wervlad)
 [![NEXT.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js)](https://hub.docker.com/u/wervlad)
