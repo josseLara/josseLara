@@ -9,7 +9,7 @@
         If you are looking for a Full Stack developer with skills in a variety of technologies and experience developing innovative web applications, please do not hesitate to contact me. I am excited to discuss how I can contribute to your company.
     </i><br>
     <br>
-    <a href="[https://www.linkedin.com/in/wervlad](https://www.linkedin.com/in/jos%C3%A9-ramiro-lara-311a77237/)">
+    <a href="https://www.linkedin.com/in/jos%C3%A9-ramiro-lara-311a77237/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
 <!--     <a href="https://www.kaggle.com/wervlad">
