@@ -49,6 +49,7 @@
 [![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/wervlad)
 [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/wervlad)
 [![VS Code](https://img.shields.io/badge/vscode-black?style=for-the-badge&logo=vscode)](https://github.com/wervlad)
+[![Figma](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma)](https://github.com/wervlad)
 
 ### Methodology
 [![Agile](https://img.shields.io/badge/agile-black?style=for-the-badge&logo=agile)](https://github.com/wervlad)
