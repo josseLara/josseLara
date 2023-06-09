@@ -37,6 +37,7 @@
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/wervlad)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/wervlad)
 [![SASS](https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass)](https://github.com/wervlad)
+[![Styled Components](https://img.shields.io/badge/styledcomponents-black?style=for-the-badge&logo=styledcomponents)](https://github.com/wervlad)
 [![Tailwindcss](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwindcss)](https://github.com/wervlad)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/wervlad)
 [![NODE.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)](https://github.com/wervlad)
