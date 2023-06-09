@@ -12,6 +12,9 @@
     <a href="https://www.linkedin.com/in/jos%C3%A9-ramiro-lara-311a77237/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
+     <a href="josselara1@gmail.com">
+        <img src="https://img.shields.io/badge/gmail-white?style=flat-square&logo=gmail" alt="Gmail">
+    </a>
 <!--     <a href="https://www.kaggle.com/wervlad">
         <img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle" alt="Kaggle">
     </a>
@@ -45,6 +48,12 @@
 [![Mongo DB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/wervlad)
 [![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)](https://github.com/wervlad)
 [![PostgreSQL](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)](https://github.com/wervlad)
+[![Jest](https://img.shields.io/badge/jest-black?style=for-the-badge&logo=jest)](https://github.com/wervlad)
+[![Testing Library](https://img.shields.io/badge/testinglibrary-black?style=for-the-badge&logo=testinglibrary)](https://github.com/wervlad)
+[![JWT](https://img.shields.io/badge/jsonwebtokens-black?style=for-the-badge&logo=jsonwebtokens)](https://github.com/wervlad)
+[![Vercel](https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel)](https://github.com/wervlad)
+[![NPM](https://img.shields.io/badge/npm-black?style=for-the-badge&logo=npm)](https://github.com/wervlad)
+[![Vite](https://img.shields.io/badge/vite-black?style=for-the-badge&logo=vite)](https://github.com/wervlad)
 
 ### Tools
 [![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/wervlad)
