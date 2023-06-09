@@ -40,6 +40,7 @@
 [![Styled Components](https://img.shields.io/badge/styledcomponents-black?style=for-the-badge&logo=styledcomponents)](https://github.com/josseLara)
 [![Tailwindcss](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwindcss)](https://github.com/josseLara)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/josseLara)
+[![React Router](https://img.shields.io/badge/reactrouter-black?style=for-the-badge&logo=reactrouter)](https://github.com/josseLara)
 [![NODE.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)](https://github.com/josseLara)
 [![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)](https://github.com/josseLara)
 [![JQUERY](https://img.shields.io/badge/jquery-black?style=for-the-badge&logo=jquery)](https://github.com/josseLara)
