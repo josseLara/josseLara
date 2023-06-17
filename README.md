@@ -52,6 +52,7 @@
 [![PostgreSQL](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)](https://github.com/josseLara)
 [![Jest](https://img.shields.io/badge/jest-black?style=for-the-badge&logo=jest)](https://github.com/josseLara)
 [![Testing Library](https://img.shields.io/badge/testinglibrary-black?style=for-the-badge&logo=testinglibrary)](https://github.com/josseLara)
+[![Vitest](https://img.shields.io/badge/vitest-black?style=for-the-badge&logo=vitest)](https://github.com/josseLara)
 [![JWT](https://img.shields.io/badge/jsonwebtokens-black?style=for-the-badge&logo=jsonwebtokens)](https://github.com/josseLara)
 [![Vercel](https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel)](https://github.com/josseLara)
 [![NPM](https://img.shields.io/badge/npm-black?style=for-the-badge&logo=npm)](https://github.com/josseLara)
