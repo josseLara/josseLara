@@ -16,7 +16,7 @@
         <img src="https://img.shields.io/badge/gmail-white?style=flat-square&logo=gmail" alt="Gmail">
     </a>
      <a href="https://www.behance.net/joselara36">
-        <img src="https://img.shields.io/badge/gmail-white?style=flat-square&logo=behance" alt="behance">
+        <img src="https://img.shields.io/badge/behance-blue?style=flat-square&logo=behance" alt="behance">
     </a>
 <!--     <a href="https://www.kaggle.com/wervlad">
         <img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle" alt="Kaggle">
