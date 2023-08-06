@@ -18,8 +18,8 @@
      <a href="https://www.behance.net/joselara36">
         <img src="https://img.shields.io/badge/behance-blue?style=flat-square&logo=behance" alt="Behance">
     </a>
-     <a href="https://www.behance.net/joselara36](https://es.fiverr.com/inbox/lavinb90">
-        <img src="https://img.shields.io/badge/diverr-green?style=flat-square&logo=fiverr" alt="Fiverr">
+     <a href="https://es.fiverr.com/joselara602">
+        <img src="https://img.shields.io/badge/Fiverr-black?style=flat-square&logo=fiverr" alt="Fiverr">
     </a>
 <!--     <a href="https://www.kaggle.com/wervlad">
         <img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle" alt="Kaggle">
