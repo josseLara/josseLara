@@ -1,12 +1,12 @@
-<h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+<h1 align="center">Hola! 👋</h1>
 
 <p align="center">
-    <b>Welcome to my page!</b><br><br>
+    <b>¡Bienvenido a mi github!</b><br><br>
     <i>
-        I'm Jose Lara.<br>
+        Soy José Lara.<br>
             .<br>
-        Passionate about the latest trends in technology and am always looking to learn and improve my skills. I love working as a team and collaborating with other developers to create innovative and scalable solutions. I also have experience in agile methodologies such as Scrum and Agile.
-        If you are looking for a Full Stack developer with skills in a variety of technologies and experience developing innovative web applications, please do not hesitate to contact me. I am excited to discuss how I can contribute to your company.
+      Apasionado por las últimas tendencias en tecnología y siempre buscando aprender y mejorar mis habilidades. Me encanta trabajar en equipo y colaborar con otros desarrolladores para crear soluciones innovadoras y escalables. También tengo experiencia en metodologías ágiles como Scrum y Agile.
+         Si buscas un desarrollador Full Stack con habilidades en una variedad de tecnologías y experiencia en el desarrollo de aplicaciones web innovadoras, no dudes en contactarme. Me entusiasma poder hablar sobre cómo puedo contribuir a su empresa.
     </i><br>
     <br>
     <a href="https://www.linkedin.com/in/jos%C3%A9-ramiro-lara-311a77237/">
